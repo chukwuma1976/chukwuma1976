@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A software engineer with a surgical approach to programming</h3>
 
 - 🔭 I’m currently working on [Profile](https://chukwuma1976.github.io/portfolio)
 
