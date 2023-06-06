@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfoli](https://chukwuma1976.github.io/portfoli)
+- 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://dev.to/chukwuma1976](https://dev.to/chukwuma1976)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chukwumaanyadike/](https://www.linkedin.com/in/chukwumaanyadike/)
 
-- ⚡ Fun fact **lift weights, watch k dramas**
+- ⚡ Fun fact **lift weights, watch k dramas, like action movies, have traveled**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
