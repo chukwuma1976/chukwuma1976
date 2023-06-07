@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/chukwuma1976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chukwuma1976" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chukwumaanyadike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chukwumaanyadike" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eye of a hero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eye of a hero" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@chukwumaanyadike5760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eye of a hero" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@chukwuma_anyadi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chukwuma_anyadi1" height="30" width="40" /></a>
 </p>
 
