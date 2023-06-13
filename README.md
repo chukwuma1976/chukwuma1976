@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [Profile](https://chukwuma1976.github.io/portfolio)
+- 🔭 I’m currently working on [adding AWS to Healthcare System Interface (HCSI) and redeploying](https://chukwuma1976.github.io/portfolio)
 
 - 🌱 I’m currently learning **Redux, Data Structures**
 
