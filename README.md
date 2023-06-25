@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [deployed eclectic music database](https://eclectic-music-database.onrender.com/)
+- 🔭 I’m currently working on [deploying eclectic music database](https://eclectic-music-database.onrender.com/)
 
 - 🌱 I’m currently learning **Python, Data Structures**
 
