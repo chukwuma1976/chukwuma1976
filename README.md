@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [adding AWS to Healthcare System Interface (HCSI) and redeploying](https://hcsi-isxm.onrender.com/)
+- 🔭 I’m currently working on [deployed eclectic music database](https://eclectic-music-database.onrender.com/)
 
-- 🌱 I’m currently learning **Redux, Data Structures**
+- 🌱 I’m currently learning **Python, Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
