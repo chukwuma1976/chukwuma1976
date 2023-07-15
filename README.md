@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/chukwuma1976](https://dev.to/chukwuma1976)
 
-- 💬 Ask me about **JavaScript, React, Ruby, Rails**
+- 💬 Ask me about **JavaScript, React, Ruby, Rails, Python**
 
 - 📫 How to reach me **chukwuma.anyadike@gmail.com**
 
