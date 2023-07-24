@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [dinosaur project application](https://github.com/chukwuma1976/dinosaur_project)
 
-- 🌱 I’m currently learning **Python, Data Structures, and a bit of Java**
+- 🌱 I’m currently learning **Python, Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
