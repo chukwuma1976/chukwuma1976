@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [mock social media api](https://github.com/chukwuma1976/chukwuma1976-pep-project)
+- 🔭 I’m currently working on [Spring social media blog api](https://github.com/chukwuma1976/chukwuma1976-pep-spring-project)
 
 - 🌱 I’m currently learning **Java, Javalin, advanced SQL, JDBC**
 
