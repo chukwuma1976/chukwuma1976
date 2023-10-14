@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spring social media blog api](https://github.com/chukwuma1976/chukwuma1976-pep-spring-project)
 
-- 🌱 I’m currently learning **Java, Javalin, advanced SQL, JDBC**
+- 🌱 I’m currently learning **Java, Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chukwumaanyadike/](https://www.linkedin.com/in/chukwumaanyadike/)
 
-- ⚡ Fun fact **lift weights, watch k dramas, like action movies, have traveled**
+- ⚡ Fun fact **lift weights, watch k dramas (sometimes C dramas as well), like action movies, have traveled**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
