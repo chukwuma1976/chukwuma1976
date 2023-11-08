@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spring social media blog api](https://github.com/chukwuma1976/chukwuma1976-pep-spring-project)
 
-- 🌱 I’m currently learning **Java, Spring Framework**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
