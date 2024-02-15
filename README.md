@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [bank account application html](https://github.com/chukwuma1976/bank-account-application-html)
+- 🔭 I’m currently working on [Workout Wizard (an workout application)](https://github.com/Chris-Weinell/WorkoutWizard)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Agile Project Management**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
