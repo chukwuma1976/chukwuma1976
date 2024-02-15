@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [Workout Wizard (an workout application)](https://github.com/Chris-Weinell/WorkoutWizard)
+- 🔭 I’m currently working on [Workout Wizard (a workout application)](https://github.com/Chris-Weinell/WorkoutWizard)
 
 - 🌱 I’m currently learning **Agile Project Management**
 
