@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [Workout Wizard (a workout application)](https://github.com/Chris-Weinell/WorkoutWizard)
+- 🔭 I’m currently working on [Workout Wizard (a workout application)](https://github.com/Chris-Weinell/WorkoutWizard)]
 
-- 🌱 I’m currently learning **Agile Project Management**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://dev.to/chukwuma1976](https://dev.to/chukwuma1976)
 
-- 💬 Ask me about **JavaScript, React, Ruby, Rails, Java, Spring Boot**
+- 💬 Ask me about **JavaScript, React, Ruby, Rails, Java, Spring Boot, Angular**
 
 - 📫 How to reach me **chukwuma.anyadike@gmail.com**
 
