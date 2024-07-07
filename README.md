@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on [Workout Wizard (a workout application)](https://github.com/Chris-Weinell/WorkoutWizard)]
+- 🔭 I’m currently working on [Recipes Application](https://github.com/chukwuma1976/recipes-application)]
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular/Typscript**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
