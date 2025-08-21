@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
 <h3 align="center">A software engineer with a surgical approach to programming</h3>
 
-- 🔭 I’m currently working on Agent Profiles (https://github.com/chukwuma1976/agent-profiles)
+- 🔭 I’m currently working on Profiler (https://github.com/chukwuma1976/pro-filer)
 
 - 🌱 I’m currently learning **Angular/Typscript**
 
