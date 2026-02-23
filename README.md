@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Profiler (https://github.com/chukwuma1976/pro-filer)
 
-- 🌱 I’m currently learning **Angular/Typscript**
+- 🌱 I’m currently learning **SDET Test Automation with Playwright/Java and Selenium/Java**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
