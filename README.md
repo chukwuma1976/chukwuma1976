@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Anyadike</h1>
-<h3 align="center">A software engineer with a surgical approach to programming</h3>
+<h3 align="center">SDET | QA Automation Engineer | Playwright | Java | CI/CD | API & UI</h3>
 
-- 🔭 I’m currently working on Profiler (https://github.com/chukwuma1976/pro-filer)
+- 🔭 I’m currently working on SDET Enterprise Test Automation (https://github.com/chukwuma1976/sdet-enterprise-automation-framework)
 
 - 🌱 I’m currently learning **SDET Test Automation with Playwright/Java and Selenium/Java**
 
 - 👨‍💻 All of my projects are available at [https://chukwuma1976.github.io/portfolio](https://chukwuma1976.github.io/portfolio)
 
-- 📝 I regularly write articles on [https://dev.to/chukwuma1976](https://dev.to/chukwuma1976)
+- 📝 I have written articles on [https://dev.to/chukwuma1976](https://dev.to/chukwuma1976)
 
-- 💬 Ask me about **JavaScript, React, Ruby, Rails, Java, Spring Boot, Angular**
+- 💬 Ask me about **Playwright Test Automation, Java, JavaScript, React, Spring Boot, Angular**
 
 - 📫 How to reach me **chukwuma.anyadike@gmail.com**
 
